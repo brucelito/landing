@@ -1,0 +1,26 @@
+.cards{
+
+  /*box-shadow: 0 0 15px rgba(0,0,0,0.2);*/
+  display: flex;
+  justify-content: space-around;
+
+}
+
+
+
+ .card{
+
+  height: 450px;
+  width: 300px;
+  background: #FEFBFA;
+  box-shadow: 25px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  /*border: 1px solid #575757;*/
+
+}
+
+
+.card:hover{
+  color: #575757;
+  border: 1px solid #BCB7B7;
+}

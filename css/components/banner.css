@@ -1,0 +1,10 @@
+.banner{
+
+height: 500px;
+object-fit: cover;
+background-position:center;
+display:flex;
+justify-content: center;
+align-items: center;
+
+}
